@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Lock in my answer"                                         // Text for the next button
         },
         third: {
-            text: "My sweet Soriya, will you be my valentine on February 14th, 2025 ?", // The big question!
+            text: "My sweet Soriya, will you be my valentine on February 14th, 2026 ?", // The big question!
             yesBtn: "I would love to :)",                                             // Text for "Yes" button
             noBtn: "No you disgust me"                                                 // Text for "No" button
         }
